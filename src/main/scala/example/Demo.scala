@@ -7,6 +7,7 @@ object Demo {
       case 2 => "Tuesday"
       case 3 => "Wednesday"
       case 4 => "Thursday"
+      case 5 => "Friday"
 
     }
 }
