@@ -1,0 +1,1 @@
+scalac -classpath /Users/karolinazaborska/dev2/gradproject2/target/scala-2.12/classes -bootclasspath /Users/karolinazaborska/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar /Users/karolinazaborska/dev2/gradproject2/src/main/scala/example/Hello.scala
