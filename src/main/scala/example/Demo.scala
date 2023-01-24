@@ -10,6 +10,7 @@ object Demo {
       case 5 => "Friday"
       case 6 => "Saturday"
       case 7 => "Sunday"
+      case _ => "OutOfBounds"
 
     }
 }
