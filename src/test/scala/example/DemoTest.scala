@@ -19,8 +19,8 @@ class DemoTest extends FlatSpec with Matchers{
     Demo.weeklyFunction(4) shouldEqual "Czwartek"
   }
 
-  "The Demo object" should "say Friday" in {
-    Demo.weeklyFunction(5) shouldEqual "Friday"
+  "The Demo object" should "say Piatek" in {
+    Demo.weeklyFunction(5) shouldEqual "Piatek"
   }
   "The Demo object" should "say Saturday" in {
     Demo.weeklyFunction(6) shouldEqual "Saturday"

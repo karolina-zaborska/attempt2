@@ -7,7 +7,7 @@ object Demo {
       case 2 => "Wtorek"
       case 3 => "Sroda"
       case 4 => "Czwartek"
-      case 5 => "Friday"
+      case 5 => "Piatek"
       case 6 => "Saturday"
       case 7 => "Sunday"
       case _ => "OutOfBounds"
