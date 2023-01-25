@@ -10,7 +10,7 @@ object Demo {
       case 5 => "Piatek"
       case 6 => "Sobota"
       case 7 => "Niedziela"
-      case _ => "OutOfBounds"
+      case _ => "Wprowadzono niepoprawna wartosc, sprobuj ponownie"
 
     }
 }
