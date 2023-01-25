@@ -3,14 +3,14 @@ package example
 object Demo {
 
     def weeklyFunction(number: Int): String = number match {
-      case 1 => "Poniedzialek"
-      case 2 => "Wtorek"
-      case 3 => "Sroda"
-      case 4 => "Czwartek"
-      case 5 => "Piatek"
-      case 6 => "Sobota"
-      case 7 => "Niedziela"
-      case _ => "Wprowadzono niepoprawna wartosc, sprobuj ponownie"
+      case 1 => "lundi"
+      case 2 => "mardi"
+      case 3 => "mercredi"
+      case 4 => "jeudi"
+      case 5 => "vendredi"
+      case 6 => "samedi"
+      case 7 => "dimanche"
+      case _ => "Entrée hors limites"
 
     }
 }
