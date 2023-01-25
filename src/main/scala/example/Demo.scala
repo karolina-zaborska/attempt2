@@ -8,7 +8,7 @@ object Demo {
       case 3 => "mercredi"
       case 4 => "jeudi"
       case 5 => "vendredi"
-      case 6 => "samedi"
+      case 6 => "Shanbeh"
       case 7 => "dimanche"
       case _ => "Entrée hors limites"
 
