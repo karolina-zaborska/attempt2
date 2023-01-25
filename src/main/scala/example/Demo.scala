@@ -8,7 +8,7 @@ object Demo {
       case 3 => "Sroda"
       case 4 => "Czwartek"
       case 5 => "Piatek"
-      case 6 => "Sobota"
+      case 6 => "Shanbeh"
       case 7 => "Niedziela"
       case _ => "Wprowadzono niepoprawna wartosc, sprobuj ponownie"
 
